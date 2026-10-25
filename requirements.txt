@@ -1,0 +1,2 @@
+# Eventora — Python Requirements
+bottle>=0.13.4
